@@ -6,6 +6,7 @@ import { Button } from './Button';
 const HeroSection = ({ myData }) => {
 
   const { name } = myData;
+  console.log(myData);
 
   return (
     <Wrapper>
