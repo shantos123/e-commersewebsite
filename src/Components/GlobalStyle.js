@@ -70,6 +70,11 @@ ${"" /* resuable code section  */}
   max-width: 120rem;
   margin: 0 auto;
 }
+.flex{
+  display: flex;
+  gap: 9rem;
+}
+
 .grid {
   display: grid;
   gap: 9rem;
